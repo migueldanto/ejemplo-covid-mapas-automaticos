@@ -1,0 +1,7 @@
+geopandas
+matplotlib
+descartes
+requests
+jupyter
+mapclassify
+seaborn
